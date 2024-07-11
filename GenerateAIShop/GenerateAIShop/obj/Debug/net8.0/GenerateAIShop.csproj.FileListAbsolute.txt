@@ -1,0 +1,17 @@
+C:\Users\Ghost\source\repos\GenerateAIShop\GenerateAIShop\bin\Debug\net8.0\GenerateAIShop.exe
+C:\Users\Ghost\source\repos\GenerateAIShop\GenerateAIShop\bin\Debug\net8.0\GenerateAIShop.deps.json
+C:\Users\Ghost\source\repos\GenerateAIShop\GenerateAIShop\bin\Debug\net8.0\GenerateAIShop.runtimeconfig.json
+C:\Users\Ghost\source\repos\GenerateAIShop\GenerateAIShop\bin\Debug\net8.0\GenerateAIShop.dll
+C:\Users\Ghost\source\repos\GenerateAIShop\GenerateAIShop\bin\Debug\net8.0\GenerateAIShop.pdb
+C:\Users\Ghost\source\repos\GenerateAIShop\GenerateAIShop\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Ghost\source\repos\GenerateAIShop\GenerateAIShop\obj\Debug\net8.0\GenerateAIShop.csproj.AssemblyReference.cache
+C:\Users\Ghost\source\repos\GenerateAIShop\GenerateAIShop\obj\Debug\net8.0\GenerateAIShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ghost\source\repos\GenerateAIShop\GenerateAIShop\obj\Debug\net8.0\GenerateAIShop.AssemblyInfoInputs.cache
+C:\Users\Ghost\source\repos\GenerateAIShop\GenerateAIShop\obj\Debug\net8.0\GenerateAIShop.AssemblyInfo.cs
+C:\Users\Ghost\source\repos\GenerateAIShop\GenerateAIShop\obj\Debug\net8.0\GenerateAIShop.csproj.CoreCompileInputs.cache
+C:\Users\Ghost\source\repos\GenerateAIShop\GenerateAIShop\obj\Debug\net8.0\Generate.0ED03A33.Up2Date
+C:\Users\Ghost\source\repos\GenerateAIShop\GenerateAIShop\obj\Debug\net8.0\GenerateAIShop.dll
+C:\Users\Ghost\source\repos\GenerateAIShop\GenerateAIShop\obj\Debug\net8.0\refint\GenerateAIShop.dll
+C:\Users\Ghost\source\repos\GenerateAIShop\GenerateAIShop\obj\Debug\net8.0\GenerateAIShop.pdb
+C:\Users\Ghost\source\repos\GenerateAIShop\GenerateAIShop\obj\Debug\net8.0\GenerateAIShop.genruntimeconfig.cache
+C:\Users\Ghost\source\repos\GenerateAIShop\GenerateAIShop\obj\Debug\net8.0\ref\GenerateAIShop.dll

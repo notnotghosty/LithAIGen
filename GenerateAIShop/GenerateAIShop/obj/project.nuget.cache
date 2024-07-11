@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "PK08nPnLfw4QM4E7zdWBhD+CDWysZj3Qtxy9UoewrPDegaGNXN8Nv0GHxDVmCPONLSUfzDzBGkSRy/8XYEMKbA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ghost\\source\\repos\\GenerateAIShop\\GenerateAIShop\\GenerateAIShop.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ghost\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
